@@ -1,6 +1,6 @@
-import SuperHero from './Superheroes_card.jsx';
-import datas from "./../data.json";
-import './../style/App.css';
+import SuperHero from './../Superheroes_card/Superheroes_card.jsx';
+import datas from "./../../data/data.json";
+import './../../style/App.css';
 
 function App() {
   return (
